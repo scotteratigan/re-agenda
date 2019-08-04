@@ -1,0 +1,228 @@
+{
+  "2019": {
+    "1": {
+      "1": [
+        {
+          "uuid": "60096710-21e1-4540-8636-c542c1e7a4f1",
+          "name": "New Years Day",
+          "description": "Federal Holiday - Happy 2019! In pre-Christian Rome under the Julian calendar, the day was dedicated to Janus, god of gateways and beginnings, for whom January is also named. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ],
+      "21": [
+        {
+          "uuid": "3d554464-a7a1-4d78-8c5a-ae0e9b949d7e",
+          "name": "MLK Jr",
+          "description": "Federal Holiday - Birthday of Martin Luther King Jr. observed on the third Monday of January each year, which is around King's actual birthday, January 15. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "uuid": "3a1f55f2-5ab3-4e98-9a55-796fbb54d869",
+          "name": "Groundhog Day",
+          "description": "Pennsylvania Dutch superstition that if a groundhog emerging from its burrow on this day sees its shadow due to clear weather, it will retreat to its den and winter will persist for six more weeks, and if it does not see its shadow because of cloudiness, spring will arrive early. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "5": [
+        {
+          "uuid": "d4369c69-9373-445b-b898-ac0d6793073c",
+          "name": "Chinese New Year",
+          "description": "Celebrates the beginning of a new year on the traditional Chinese calendar. The festival is usually referred to as the Spring Festival in mainland China. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "14": [
+        {
+          "uuid": "1e03b34c-ceda-4317-8932-a49236caee1e",
+          "name": "Valentine's Day",
+          "description": "Originating as a Western Christian feast day honoring one or two early saints named Valentinus, Valentine's Day is recognized as a significant cultural, religious, and commercial celebration of romance and romantic love in many regions around the world. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "18": [
+        {
+          "uuid": "727837c5-bd78-4682-b514-5e2c6dd42d67",
+          "name": "President’s Day",
+          "description": "Federal Holiday - Washington's Birthday is a United States federal holiday celebrated on the third Monday of February in honor of George Washington, the first President of the United States, who was born on February 22, 1732. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    },
+    "3": {
+      "17": [
+        {
+          "uuid": "975f9f66-426d-42a4-830e-c88c0ca52f30",
+          "name": "Saint Patrick’s Day",
+          "description": "A cultural and religious celebration held on 17 March, the traditional death date of Saint Patrick (c. AD 385–461), the foremost patron saint of Ireland. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "4": {
+      "15": [
+        {
+          "uuid": "8d0ffbb1-029d-423b-a997-9a1e27ae9d42",
+          "name": "Tax Day",
+          "description": "Individual income tax returns are due to be submitted to the federal government.",
+          "federalHoliday": false
+        }
+      ],
+      "19": [
+        {
+          "uuid": "a314142c-ca46-4a7b-81ca-51e15639d3c4",
+          "name": "Good Friday",
+          "description": "Christian holiday commemorating the crucifixion of Jesus and his death at Calvary. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "21": [
+        {
+          "uuid": "c298a9e6-e74f-4ed3-988e-1df310ae32f6",
+          "name": "Easter Sunday",
+          "description": "aka Resurrection Sunday, is a festival and holiday commemorating the resurrection of Jesus from the dead, described in the New Testament as having occurred on the third day after his burial following his crucifixion by the Romans at Calvary c. 30 AD. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "5": {
+      "5": [
+        {
+          "uuid": "9cd52e0a-d0ae-4430-9dc3-0465bbf259c6",
+          "name": "Cinco de Mayo",
+          "description": "To commemorate the Mexican Army's victory over the French Empire at the Battle of Puebla, on May 5, 1862, under the leadership of General Ignacio Zaragoza. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "12": [
+        {
+          "uuid": "26da5aee-5e7c-47f9-9073-2033c532ba03",
+          "name": "Mother's Day",
+          "description": "A celebration honoring the mother of the family, as well as motherhood, maternal bonds, and the influence of mothers in society. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "27": [
+        {
+          "uuid": "f202e5e4-b0f8-4a4a-b47d-8856dd3231f6",
+          "name": "Memorial Day",
+          "description": "Federal Holiday - (previously but now seldom called Decoration Day) is a federal holiday in the United States for remembering and honoring the military personnel who died while serving in the United States Armed Forces. The holiday is observed on the last Monday of May. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    },
+    "6": {
+      "16": [
+        {
+          "uuid": "72a668a0-9402-4bfe-9092-9c3706ea364f",
+          "name": "Father's Day",
+          "description": "A celebration honoring fathers and celebrating fatherhood, paternal bonds and the influence of fathers in society. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "7": {
+      "4": [
+        {
+          "uuid": "e65098f3-4eda-45c5-b0b0-357d26d5e316",
+          "name": "Independence Day",
+          "description": "Federal Holiday - (colloquially the Fourth of July or July 4th) commemorating the Declaration of Independence of the United States, on July 4, 1776. The Continental Congress declared that the thirteen American colonies were no longer subject (and subordinate) to the monarch of Britain and were now united, free, and independent states. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    },
+    "8": {
+      "26": [
+        {
+          "uuid": "3418bbdd-13fa-4b87-9e72-5393949c1f3d",
+          "name": "Women's Equality Day",
+          "description": "To commemorate the 1920 adoption of the Nineteenth Amendment to the United States Constitution, which prohibits the states and the federal government from denying the right to vote to citizens of the United States on the basis of sex. It was first celebrated in 1973 and is proclaimed each year by the United States President. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "9": {
+      "2": [
+        {
+          "uuid": "1c55c3ca-ac92-4b48-bf5b-7717a23bd650",
+          "name": "Labor Day",
+          "description": "Federal Holiday - A public holiday celebrated on the first Monday in September. It honors the American labor movement and the contributions that workers have made to the development, growth, endurance, strength, security, prosperity, productivity, laws, sustainability, persistence, structure, and well-being of the country. It is the Monday of the long weekend known as Labor Day Weekend. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ],
+      "8": [
+        {
+          "uuid": "e5c47974-f85e-4b51-90d3-ea1fd243accc",
+          "name": "Grandparents Day",
+          "description": "The first Sunday after Labor Day. To educate the youth about the important contributions seniors have made throughout history. Signed by proclamation by President Jimmy Carter on August 3, 1978. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "10": {
+      "9": [
+        {
+          "uuid": "",
+          "name": "Yom Kippur",
+          "description": "aka the Day of Atonement, is the holiest day of the year in Judaism. Its central themes are atonement and repentance. Jews traditionally observe this holy day with an approximate 25-hour period of fasting and intensive prayer, often spending most of the day in synagogue services. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "14": [
+        {
+          "uuid": "69514156-c63b-422a-b84f-53f21bb63740",
+          "name": "Columbus Day / Indigenous Peoples' Day",
+          "description": "Federal Holiday - celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. / Indigenous Peoples' Day is a counter-celebration to Columbus day, arguing that he represents 'the violent history of the colonization in the Western Hemisphere'. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    },
+    "11": {
+      "11": [
+        {
+          "uuid": "6da9f893-125c-4b1c-ac5f-564c3de16fbc",
+          "name": "Veteran's Day",
+          "description": "Federal Holiday - (originally known as Armistice Day) Honoring military veterans, that is, persons who have served in the United States Armed Forces. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ],
+      "28": [
+        {
+          "uuid": "9eca817d-9066-485b-b89d-f2481c840499",
+          "name": "Thanksgiving Day",
+          "description": "Federal Holiday - celebrated on the fourth Thursday of November. It originated as a harvest festival. Thanksgiving has been celebrated nationally on and off since 1789, with a proclamation by George Washington after a request by Congress. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ],
+      "29": [
+        {
+          "uuid": "20e0d10b-6dc7-4e53-b6b7-78f82485d921",
+          "name": "Black Friday",
+          "description": "The informal name for the Friday following Thanksgiving Day in the United States, which is regarded as the beginning of America's Christmas shopping season. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ],
+      "31": [
+        {
+          "uuid": "b0aae3cf-e59c-48e0-8b5c-1b53dfe46280",
+          "name": "Halloween",
+          "description": "Observed on 31 October, the eve of the Western Christian feast of All Hallows' Day. It begins the three-day observance of Allhallowtide, the time in the liturgical year dedicated to remembering the dead, including saints (hallows), martyrs, and all the faithful departed. (Wikipedia)",
+          "federalHoliday": false
+        }
+      ]
+    },
+    "12": {
+      "25": [
+        {
+          "uuid": "63e9c221-3255-4087-aebc-de2f948d09e9",
+          "name": "Christmas Day",
+          "description": "Federal Holiday - Merry Christmas! An annual festival commemorating the birth of Jesus Christ, observed on December 25 as a religious and cultural celebration. (Wikipedia)",
+          "federalHoliday": true
+        }
+      ]
+    }
+  }
+}

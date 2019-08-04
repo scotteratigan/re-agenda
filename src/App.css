@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Slabo 27px", serif;
+}
+
+.date-number {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  padding-left: 3px;
+  padding-top: 3px;
+}

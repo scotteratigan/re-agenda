@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.today-day {
+  background-color: rgba(196, 215, 245, 0.8);
+}
+
+.btn-chevron {
+  background: none;
+  margin: 0 10px;
+  transition: all 0.2s;
+}
+
+.btn-chevron:active {
+  transform: translate(3px, 3px);
+}

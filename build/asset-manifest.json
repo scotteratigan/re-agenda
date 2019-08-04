@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccdc4d58.chunk.css",
+    "main.js": "/static/js/main.9bf35614.chunk.js",
+    "main.js.map": "/static/js/main.9bf35614.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.144d3bf7.chunk.js": "/static/js/2.144d3bf7.chunk.js",
+    "static/js/2.144d3bf7.chunk.js.map": "/static/js/2.144d3bf7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a90de0b2f4f25ddf07eb8ca9beafb87e.js": "/precache-manifest.a90de0b2f4f25ddf07eb8ca9beafb87e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ccdc4d58.chunk.css.map": "/static/css/main.ccdc4d58.chunk.css.map",
+    "static/media/anthony-delanoix-urUdKCxsTUI-unsplash.jpg": "/static/media/anthony-delanoix-urUdKCxsTUI-unsplash.40747251.jpg",
+    "static/media/ben-rosett-nYugmV-SY6s-unsplash.jpg": "/static/media/ben-rosett-nYugmV-SY6s-unsplash.0c991b42.jpg",
+    "static/media/corina-ardeleanu-sWlxCweDzzs-unsplash.jpg": "/static/media/corina-ardeleanu-sWlxCweDzzs-unsplash.30217d32.jpg",
+    "static/media/emma-francis-qNnd-DcoFGg-unsplash.jpg": "/static/media/emma-francis-qNnd-DcoFGg-unsplash.66ba2f53.jpg",
+    "static/media/fabian-mardi-kVKz9qnJC-k-unsplash.jpg": "/static/media/fabian-mardi-kVKz9qnJC-k-unsplash.097fd625.jpg",
+    "static/media/flash-alexander-SDS53BJhAwc-unsplash.jpg": "/static/media/flash-alexander-SDS53BJhAwc-unsplash.8a53ebe9.jpg",
+    "static/media/florian-giorgio-8X19catOuNI-unsplash.jpg": "/static/media/florian-giorgio-8X19catOuNI-unsplash.bee79f16.jpg",
+    "static/media/ian-matyssik--G3ouskaEKo-unsplash.jpg": "/static/media/ian-matyssik--G3ouskaEKo-unsplash.f01eea01.jpg",
+    "static/media/jacqueline-o-gara-kS4HtDY66Tg-unsplash.jpg": "/static/media/jacqueline-o-gara-kS4HtDY66Tg-unsplash.f2a6dc2c.jpg",
+    "static/media/left_chevron.svg": "/static/media/left_chevron.c0e9a838.svg",
+    "static/media/mitchell-kmetz-ycGndhqg_QQ-unsplash.jpg": "/static/media/mitchell-kmetz-ycGndhqg_QQ-unsplash.b1ffcdff.jpg",
+    "static/media/right_chevron.svg": "/static/media/right_chevron.b79ac830.svg",
+    "static/media/vishal-bhutani-ugyfweYokVA-unsplash.jpg": "/static/media/vishal-bhutani-ugyfweYokVA-unsplash.e5ab9347.jpg",
+    "static/media/wil-stewart-zlg4ExVKgAU-unsplash.jpg": "/static/media/wil-stewart-zlg4ExVKgAU-unsplash.fddef92f.jpg"
+  }
+}
